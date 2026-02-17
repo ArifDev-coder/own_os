@@ -2,6 +2,6 @@
 
 `❯ qemu-system-i386 -fda build/main_floppy.img`
 
-$ Hot to Compile
+# How to Compile
 
 `❯ make`
