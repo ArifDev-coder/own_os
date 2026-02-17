@@ -5,3 +5,11 @@
 # How to Compile
 
 `❯ make`
+
+# Install All Dependency
+
+## Arch Linux
+`❯ sudo pacman -S qemu nasm make`
+
+## Ubuntu / Debian Based
+`❯ sudo apt install qemu nasm make`
